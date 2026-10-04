@@ -1,17 +1,34 @@
-# practica_02_dart_estado
+# Práctica 02 - Fundamentos de Dart, Widgets y Estado
 
-A new Flutter project.
+## 📋 Datos Generales
+- **Institución:** Instituto Tecnológico Superior de Calkiní, en el Estado de Campeche
+- **Carrera:** Ingeniería en Sistemas Computacionales
+- **Asignatura:** Tópicos de Programación Móvil
+- **Maestra:** Ruth Betsaida Martínez Domínguez
+- **Equipo:** EQ. 6
+- **Semestre:** 7
+- **Grupo:** A
+- **Práctica:** 2
+- **Título:** Fundamentos de Dart, Widgets y Estado
 
-## Getting Started
+## 👥 Participantes (EQ. 6)
+- Fernando Jesus Colli Cach - 9033
+- Luis Antonio Chan Ku - 8941
+- Josué Uriel Balam Moo - 9000
+- Raúl Natanael Ojeda Martín - 8975
+- Emanuel Antonio Cauich Canul - 8971
 
-This project is a starting point for a Flutter application.
+## 🎯 Objetivo
+Aplicar variables, funciones, conversión de tipos y manejo de estado para construir una calculadora móvil sencilla.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Requisitos
+- Flutter SDK 3.47.2+
+- Dart 3.13.2+
+- Visual Studio Code
+- Git
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Instalación
+```bash
+git clone [URL-del-repositorio]
+cd practica_02_dart_estado
+flutter pub get
